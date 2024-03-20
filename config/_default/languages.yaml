@@ -2,7 +2,7 @@
 
 en:
   title: >-
-    Site
+    Sufficiency Lab
   contentDir: content/en
   languageCode: en
   languageName: English
@@ -25,7 +25,7 @@ en:
     volume: volumes
 fr:
   title: >-
-    Site
+    Sufficiency Lab
   contentDir: content/fr
   languageCode: fr
   languageName: Français

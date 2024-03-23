@@ -6,4 +6,6 @@ params:
   summary:
     position: hero
   search:
-    active: false  
+    active: false
+  breadcrumb:
+    position: after-hero

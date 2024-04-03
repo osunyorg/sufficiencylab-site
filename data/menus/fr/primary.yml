@@ -29,6 +29,10 @@ items:
     target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
+  - title: Nutrition
+    target: "/fr/programmes/nutrition/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

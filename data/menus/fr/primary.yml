@@ -48,7 +48,11 @@ items:
 - title: Initiatives
   target: "/fr/initiatives/"
   kind: page
-  children: []
+  children:
+  - title: Sufficiency First Coalition
+    target: "/fr/initiatives/sufficiency-first-coalition/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/fr/equipe/"
   kind: page

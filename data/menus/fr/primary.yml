@@ -13,6 +13,10 @@ items:
     target: "/fr/about-us/our-philosophy/"
     kind: page
     children: []
+  - title: Our governance
+    target: "/fr/about-us/our-governance/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

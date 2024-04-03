@@ -41,7 +41,7 @@ items:
     target: "/fr/programmes/leisure/"
     kind: page
     children: []
-- title: News and events
+- title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []

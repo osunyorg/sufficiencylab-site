@@ -4,7 +4,11 @@ items:
 - title: About us
   target: "/fr/about-us/"
   kind: page
-  children: []
+  children:
+  - title: Why the World Sufficiency Lab
+    target: "/fr/about-us/why-the-world-sufficiency-lab/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

@@ -41,8 +41,8 @@ items:
     target: "/fr/programmes/leisure/"
     kind: page
     children: []
-- title: Agenda
-  target: "/fr/agenda/"
+- title: News and events
+  target: "/fr/news-and-events/"
   kind: page
   children: []
 - title: Équipe

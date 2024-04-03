@@ -21,6 +21,10 @@ items:
     target: "/fr/about-us/contact/"
     kind: page
     children: []
+- title: Programmes
+  target: "/fr/programmes/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
@@ -35,10 +39,6 @@ items:
   children: []
 - title: Organisations
   target: "/fr/organisations/"
-  kind: page
-  children: []
-- title: Programmes
-  target: "/fr/programmes/"
   kind: page
   children: []
 

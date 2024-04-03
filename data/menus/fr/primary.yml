@@ -17,6 +17,10 @@ items:
     target: "/fr/about-us/our-governance/"
     kind: page
     children: []
+  - title: Contact
+    target: "/fr/about-us/contact/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

@@ -33,6 +33,10 @@ items:
     target: "/fr/programmes/nutrition/"
     kind: page
     children: []
+  - title: Clothing
+    target: "/fr/programmes/clothing/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

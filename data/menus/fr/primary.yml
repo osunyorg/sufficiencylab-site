@@ -37,4 +37,8 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
+- title: Programmes
+  target: "/fr/programmes/"
+  kind: page
+  children: []
 

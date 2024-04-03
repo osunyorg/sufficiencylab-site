@@ -45,12 +45,12 @@ items:
   target: "/fr/news-and-events/"
   kind: page
   children: []
-- title: Équipe
-  target: "/fr/equipe/"
-  kind: page
-  children: []
 - title: Initiatives
   target: "/fr/initiatives/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/fr/equipe/"
   kind: page
   children: []
 

@@ -49,4 +49,8 @@ items:
   target: "/fr/equipe/"
   kind: page
   children: []
+- title: Initiatives
+  target: "/fr/initiatives/"
+  kind: page
+  children: []
 

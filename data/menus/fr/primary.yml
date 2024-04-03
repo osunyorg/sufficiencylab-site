@@ -49,8 +49,4 @@ items:
   target: "/fr/equipe/"
   kind: page
   children: []
-- title: Organisations
-  target: "/fr/organisations/"
-  kind: page
-  children: []
 

@@ -53,4 +53,8 @@ items:
     target: "/fr/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+- title: Test pour bloc page
+  target: "/fr/test-pour-bloc-page/"
+  kind: page
+  children: []
 

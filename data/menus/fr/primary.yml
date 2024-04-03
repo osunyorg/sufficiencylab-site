@@ -37,6 +37,10 @@ items:
     target: "/fr/programmes/clothing/"
     kind: page
     children: []
+  - title: Leisure
+    target: "/fr/programmes/leisure/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page

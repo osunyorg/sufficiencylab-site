@@ -33,7 +33,7 @@ fr:
   params:
     social:
   permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
+    posts: /news/:year-:month-:day-:slug/
     events: /events/:year-:month-:day-:slug/
     events_categories: /events/:slug/
     persons: /equipe/:slug/

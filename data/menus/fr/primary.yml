@@ -41,8 +41,8 @@ items:
     target: "/fr/programmes/leisure/"
     kind: page
     children: []
-- title: News and events
-  target: "/fr/news-and-events/"
+- title: Events
+  target: "/fr/events/"
   kind: page
   children: []
 - title: Initiatives

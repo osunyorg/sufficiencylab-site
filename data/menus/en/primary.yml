@@ -21,4 +21,8 @@ items:
     target: "/en/about-us/why-the-world-sufficiency-lab/"
     kind: page
     children: []
+  - title: Our philosophy
+    target: "/en/about-us/our-philosophy/"
+    kind: page
+    children: []
 

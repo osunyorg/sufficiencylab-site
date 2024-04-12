@@ -13,4 +13,8 @@ items:
   target: "/en/team/"
   kind: page
   children: []
+- title: About us
+  target: "/en/about-us/"
+  kind: page
+  children: []
 

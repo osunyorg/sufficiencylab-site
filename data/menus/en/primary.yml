@@ -33,4 +33,8 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
+- title: Programmes
+  target: "/en/programmes/"
+  kind: page
+  children: []
 

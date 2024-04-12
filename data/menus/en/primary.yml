@@ -56,5 +56,9 @@ items:
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page
-  children: []
+  children:
+  - title: Sufficiency First Coalition
+    target: "/en/initiatives/sufficiency-first-coalition/"
+    kind: page
+    children: []
 

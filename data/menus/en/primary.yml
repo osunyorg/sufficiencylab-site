@@ -25,4 +25,8 @@ items:
     target: "/en/about-us/our-philosophy/"
     kind: page
     children: []
+  - title: Our governance
+    target: "/en/about-us/our-governance/"
+    kind: page
+    children: []
 

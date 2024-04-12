@@ -49,4 +49,8 @@ items:
     target: "/en/programmes/clothing/"
     kind: page
     children: []
+  - title: Leisure
+    target: "/en/programmes/leisure/"
+    kind: page
+    children: []
 

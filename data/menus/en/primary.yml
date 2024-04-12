@@ -45,4 +45,8 @@ items:
     target: "/en/programmes/nutrition/"
     kind: page
     children: []
+  - title: Clothing
+    target: "/en/programmes/clothing/"
+    kind: page
+    children: []
 

@@ -10,8 +10,8 @@ en:
     social:
   permalinks:
     posts: /posts/:year-:month-:day-:slug/
-    events: /agenda/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
+    events: /events/:year-:month-:day-:slug/
+    events_categories: /events/:slug/
     persons: /team/:slug/
   taxonomies:
     administrator: administrators

@@ -1,8 +1,8 @@
 ---
 title: Main menu
 items:
-- title: Agenda
-  target: "/en/agenda/"
+- title: Events
+  target: "/en/events/"
   kind: page
   children: []
 - title: Posts

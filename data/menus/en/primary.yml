@@ -36,5 +36,9 @@ items:
 - title: Programmes
   target: "/en/programmes/"
   kind: page
-  children: []
+  children:
+  - title: Urban areas and human settlements
+    target: "/en/programmes/urban-areas-and-human-settlements/"
+    kind: page
+    children: []
 

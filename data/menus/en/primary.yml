@@ -53,4 +53,8 @@ items:
     target: "/en/programmes/leisure/"
     kind: page
     children: []
+- title: Initiatives
+  target: "/en/initiatives/"
+  kind: page
+  children: []
 

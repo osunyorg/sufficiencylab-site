@@ -53,31 +53,6 @@ contents:
     position: 0
     rank: 2
   - kind: block
-    template: agenda
-    title: >-
-      Coming events
-    ranks:
-      self: 3
-      children: 4
-    data:
-      mode: all
-      layout: list
-      description: >-
-        
-
-      no_event_message: >-
-        Il n'y a pas d'évènements prévus pour le moment
-
-      show_summary: true
-      show_category: true
-      show_status: true
-      title_link: "/fr/events/"
-      events:
-        - path: "/fr/events/2024-04-19-first-event/"
-          file: "events/2024-04-19-first-event.html"
-
-
-  - kind: block
     template: posts
     title: >-
       
@@ -121,6 +96,31 @@ contents:
 
 
   - kind: block
+    template: agenda
+    title: >-
+      Coming events
+    ranks:
+      self: 3
+      children: 4
+    data:
+      mode: all
+      layout: list
+      description: >-
+        
+
+      no_event_message: >-
+        Il n'y a pas d'évènements prévus pour le moment
+
+      show_summary: true
+      show_category: true
+      show_status: true
+      title_link: "/fr/events/"
+      events:
+        - path: "/fr/events/2024-04-19-first-event/"
+          file: "events/2024-04-19-first-event.html"
+
+
+  - kind: block
     template: pages
     title: >-
       test du blac page carte
@@ -153,6 +153,26 @@ contents:
           slug: "leisure"
           file: "pages/programmes/leisure/_index.html"
           external: false
+
+
+  - kind: block
+    template: testimonials
+    title: >-
+      
+    ranks:
+      self: false
+    data:
+      testimonials:
+        - text: >-
+            Sufficiency policies are a set of measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being for all within planetary boundaries.
+
+          author: >-
+            
+
+          job: >-
+            
+
+
 
 
   - kind: block
@@ -213,26 +233,6 @@ contents:
       show_images: false
       layout: grid
       pages:
-
-
-  - kind: block
-    template: testimonials
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      testimonials:
-        - text: >-
-            Sufficiency policies are a set of measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being for all within planetary boundaries.
-
-          author: >-
-            
-
-          job: >-
-            
-
-
 
 
   - kind: block

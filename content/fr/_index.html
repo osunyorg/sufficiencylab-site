@@ -43,15 +43,10 @@ header_cta:
   label: 
   target: 
 contents_reading_time:
-  seconds: 11
+  seconds: 10
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
-    title: >-
-      Sufficiency Lab
-    position: 0
-    rank: 2
   - kind: block
     template: pages
     title: >-
@@ -60,7 +55,7 @@ contents:
       self: false
     data:
       show_main_description: false
-      show_descriptions: false
+      show_descriptions: true
       show_images: false
       layout: grid
       pages:
@@ -87,41 +82,12 @@ contents:
 
 
   - kind: block
-    template: posts
-    title: >-
-      
-    ranks:
-      self: false
-      children: 3
-    data:
-      mode: all
-      all: true
-      layout: grid
-      posts:
-        - "2024/2024-03-18-lancement-du-site"
-
-
-  - kind: block
-    template: pages
-    title: >-
-      Test bloc page
-    ranks:
-      self: 3
-    data:
-      show_main_description: true
-      show_descriptions: true
-      show_images: false
-      layout: grid
-      pages:
-
-
-  - kind: block
     template: agenda
     title: >-
       Coming events
     ranks:
-      self: 3
-      children: 4
+      self: 2
+      children: 3
     data:
       mode: all
       layout: list
@@ -138,150 +104,6 @@ contents:
       events:
         - path: "/fr/events/2024-04-19-first-event/"
           file: "events/2024-04-19-first-event.html"
-
-
-  - kind: block
-    template: pages
-    title: >-
-      test du blac page carte
-    ranks:
-      self: 3
-      children: 4
-    data:
-      page: 
-        path: "/fr/programmes/"
-        slug: "programmes"
-        file: "pages/programmes/_index.html"
-      show_main_description: false
-      show_descriptions: false
-      show_images: false
-      layout: cards
-      pages:
-        - path: "/fr/programmes/urban-areas-and-human-settlements/"
-          slug: "urban-areas-and-human-settlements"
-          file: "pages/programmes/urban-areas-and-human-settlements/_index.html"
-          external: false
-        - path: "/fr/programmes/nutrition/"
-          slug: "nutrition"
-          file: "pages/programmes/nutrition/_index.html"
-          external: false
-        - path: "/fr/programmes/clothing/"
-          slug: "clothing"
-          file: "pages/programmes/clothing/_index.html"
-          external: false
-        - path: "/fr/programmes/leisure/"
-          slug: "leisure"
-          file: "pages/programmes/leisure/_index.html"
-          external: false
-
-
-  - kind: block
-    template: pages
-    title: >-
-      TEST CARTE
-    ranks:
-      self: 3
-      children: 4
-    data:
-      page: 
-        path: "/fr/programmes/"
-        slug: "programmes"
-        file: "pages/programmes/_index.html"
-      show_main_description: true
-      show_descriptions: true
-      show_images: true
-      layout: grid
-      pages:
-        - path: "/fr/programmes/urban-areas-and-human-settlements/"
-          slug: "urban-areas-and-human-settlements"
-          file: "pages/programmes/urban-areas-and-human-settlements/_index.html"
-          external: false
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      layout: no_background
-      text: >-
-        
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-
-
-  - kind: block
-    template: pages
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      show_main_description: false
-      show_descriptions: false
-      show_images: false
-      layout: grid
-      pages:
-
-
-  - kind: block
-    template: chapter
-    title: >-
-      
-    ranks:
-      self: false
-    data:
-      layout: no_background
-      text: >-
-        
-
-      notes: >-
-        
-
-
-      alt: >-
-        
-
-      credit: >-
-        
-
-
-
-  - kind: block
-    template: agenda
-    title: >-
-      UPCOMING EVENTS
-    ranks:
-      self: 3
-      children: 4
-    data:
-      mode: all
-      layout: list
-      description: >-
-        
-
-      no_event_message: >-
-        
-
-      show_summary: true
-      show_category: false
-      show_status: false
-      title_link: "/fr/events/"
-      events:
-        - path: "/fr/events/2024-04-19-first-event/"
-          file: "events/2024-04-19-first-event.html"
-
 
 
 

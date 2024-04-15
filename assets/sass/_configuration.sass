@@ -10,14 +10,23 @@ $color-selection-background: rgba($color-text, .7)
 $heading-font-family: "Aileron", sans-serif
 $body-font-family: "AtkinsonHyperlegible"
 
-$header-background: radial-gradient(farthest-corner at 10px 10px ,#ECEDF5 50%,#E8FBC3 70%, #FCCFC3 100%)
+$header-background: none
+
 $header-logo-height: 32px
 $header-logo-height-desktop: 35.52px
 $header-border-bottom-width: 0
 $footer-background-color: #333333
 $footer-logo-height: $header-logo-height
 $footer-logo-height-desktop: $header-logo-height-desktop
-$hero-background-color: $header-background
+$hero-background-color: radial-gradient(farthest-side at bottom left,#ECEDF5,transparent),radial-gradient(farthest-side at top right,#E8FBC3,transparent),radial-gradient(farthest-side at bottom right,#FCCFC3,transparent)
+$hero-height: 90%
 
 $footer-color: #ffffff
 $block-testimonials-pagination-background: #C1BAFF
+
+$meta-font-family: $heading-font-family 
+$meta-size-desktop: pxToRem(16) 
+$meta-size: pxToRem(14) 
+$meta-line-height: 150% 
+$meta-line-height-desktop: $meta-line-height 
+$meta-weight: 300

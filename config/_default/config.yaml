@@ -9,3 +9,7 @@ params:
     active: false
   breadcrumb:
     position: after-hero
+    footer:
+    logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo-white.svg"

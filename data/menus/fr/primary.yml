@@ -24,11 +24,7 @@ items:
 - title: Programmes
   target: "/fr/programmes/"
   kind: page
-  children:
-  - title: Urban areas and human settlements
-    target: "/fr/programmes/urban-areas-and-human-settlements/"
-    kind: page
-    children: []
+  children: []
 - title: News
   target: "/fr/news/"
   kind: page

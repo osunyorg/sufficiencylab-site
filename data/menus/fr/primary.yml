@@ -29,10 +29,6 @@ items:
     target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
-  - title: Leisure
-    target: "/fr/programmes/leisure/"
-    kind: page
-    children: []
 - title: News
   target: "/fr/news/"
   kind: page

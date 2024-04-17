@@ -10,6 +10,6 @@ params:
   breadcrumb:
     position: after-hero
     footer:
-    logo:
+  logo:
     header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-white.svg"
+    footer: "/assets/images/logowhite.svg"   

@@ -6,10 +6,13 @@ params:
   summary:
     position: hero
   search:
-    active: false
+    active: true
   breadcrumb:
     position: hero-start
     footer:
   logo:
     header: "/assets/images/logo.svg"
     footer: "/assets/images/logowhite.svg"   
+  menu:
+    dropdown:
+      linkToLevel1: true

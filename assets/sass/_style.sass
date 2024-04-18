@@ -28,11 +28,12 @@
 
     .block-persons
         .persons
-            grid-template-columns: repeat(4, 1fr) !important
-            .person
-                display: grid
-                .avatar
-                    margin-left: auto
-                    margin-right: auto
-                .description
-                    text-align: center
+            @include in-page-with-sidebar 
+                grid-template-columns: repeat(4, 1fr)
+                .person
+                    display: grid
+                    .avatar
+                        margin-left: auto
+                        margin-right: auto
+                    .description
+                        text-align: center

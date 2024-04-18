@@ -5,17 +5,30 @@ window.typewriter = {
             return;
         }
         var i = 0;
-        var txt = 'Sufficiencylab';
-        var speed = 50;
+        var j = 10;
+        var txt = document.querySelector(".lead").textContent;
+        var j = 0;
+        var speed = 100;
 
-        function typeWriter() {
+        function typeWriterWrite() {
             if (i < txt.length) {
                 document.querySelector(".hero-text h1").innerHTML += txt.charAt(i);
                 i++;
-                setTimeout(typeWriter, speed);
+                setTimeout(typeWriterWrite, speed);
             }
+
         }
-        typeWriter();
+        function typeWriterUnWrite() {
+            if (j < txt.length) {
+                document.querySelector(".hero-text h1").innerHTML += txt.slice(0, txt.length-j);
+                j++;
+                setTimeout(typeWriterUnWrite, speed);
+            }
+
+        }
+
+        typeWriterWrite();
+        //typeWriterUnWrite();
     },
 
 

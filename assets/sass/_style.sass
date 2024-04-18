@@ -1,10 +1,11 @@
 .page__home
     .hero
         min-height: 90vh
-.avatar
-   width: columns(1.5)
+        background: radial-gradient(farthest-side at bottom left,#ECEDF5 44%,transparent 90%),radial-gradient(#E8FBC3 65%,transparent 90% ),radial-gradient(farthest-side at bottom right,#FCCFC3 50%,transparent ),radial-gradient(farthest-side at top right,#E8FBC3 50%,transparent 70% ) !important
 
 .blocks
+    .block-title
+        font-weight: normal
     .block-chapter
         &--accent_background
             padding-top: $spacing-6 !important
@@ -16,3 +17,22 @@
                     *
                         color: $color-text
                         font-weight: bold
+           
+
+
+    .block-pages
+        &--grid 
+            .grid
+                @include in-page-without-sidebar 
+                    grid-template-columns: repeat(2, 1fr)
+
+    .block-persons
+        .persons
+            grid-template-columns: repeat(4, 1fr) !important
+            .person
+                display: grid
+                .avatar
+                    margin-left: auto
+                    margin-right: auto
+                .description
+                    text-align: center

@@ -9,16 +9,25 @@ window.typewriter = {
         var txts = txt.split('/');
 
         var k = 0;
+        var l = 0;
         document.querySelector(".lead").innerHTML = "";
-        //style.display="inline";
+        document.querySelector(".lead").style.display="inline";
 
         function typeWriterWrite() {
             var leadElement = document.querySelector(".lead");
             if (i < txts[k].length) {
                 leadElement.textContent += txts[k].charAt(i);
                 i++;
-                setTimeout(typeWriterWrite, 75);
-            } else {
+                if (i <= txts[k].length-1){
+                    l=75;
+                }
+                else{
+                    l=2000;
+                }
+                setTimeout(typeWriterWrite, l);
+            } 
+            
+            else {
                 if (j <= txts[k].length) {
                     leadElement.textContent = txts[k].slice(0, txts[k].length - j);
                     j++;
@@ -27,7 +36,7 @@ window.typewriter = {
                     k = (k + 1) % txts.length;
                     i = 0;
                     j = 0;
-                    setTimeout(typeWriterWrite, 75);
+                    setTimeout(typeWriterWrite, 25);
                 }
             }
         }

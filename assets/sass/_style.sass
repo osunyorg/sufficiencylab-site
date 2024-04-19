@@ -6,10 +6,21 @@
             .content
                 .hero-text
                     hgroup
-                        display: grid
+                        display: block
+                        h1
+                            display: inline
+                            margin-right: 0.5rem
                         .lead
+                            //display: none
                             font-family: "Aileron", sans-serif
                             font-size: pxToRem(60)
+                            display: inline
+                            &::after
+                                font-weight: bold
+                                content: '_'
+                                opacity: 1
+                                animation: blink 0.5s infinite alternate
+                               
 .blocks
     .block-title
         font-weight: normal
@@ -44,3 +55,9 @@
                         margin-right: auto
                     .description
                         text-align: center
+
+@keyframes blink
+    0%
+        opacity: 1
+    100%
+        opacity: 0

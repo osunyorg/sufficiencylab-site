@@ -10,6 +10,7 @@ window.typewriter = {
 
         var k = 0;
         document.querySelector(".lead").innerHTML = "";
+        //style.display="inline";
 
         function typeWriterWrite() {
             var leadElement = document.querySelector(".lead");
@@ -19,7 +20,7 @@ window.typewriter = {
                 setTimeout(typeWriterWrite, 75);
             } else {
                 if (j <= txts[k].length) {
-                    leadElement.textContent = txts[k].slice(0, txts[k].length - j) + "_";
+                    leadElement.textContent = txts[k].slice(0, txts[k].length - j);
                     j++;
                     setTimeout(typeWriterWrite, 75);
                 } else {

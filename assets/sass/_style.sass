@@ -14,6 +14,8 @@
                             //display: none
                             font-family: "Aileron", sans-serif
                             font-size: pxToRem(60)
+                            @include media-breakpoint-down(desktop)
+                                font-size: pxToRem(30)
                             display: inline
                             &::after
                                 font-weight: bold

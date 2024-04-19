@@ -22,7 +22,7 @@ window.typewriter = {
                 if (j <= txts[k].length) {
                     leadElement.textContent = txts[k].slice(0, txts[k].length - j);
                     j++;
-                    setTimeout(typeWriterWrite, 75);
+                    setTimeout(typeWriterWrite, 30);
                 } else {
                     k = (k + 1) % txts.length;
                     i = 0;

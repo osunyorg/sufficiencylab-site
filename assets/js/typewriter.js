@@ -36,7 +36,7 @@ window.typewriter = {
                     k = (k + 1) % txts.length;
                     i = 0;
                     j = 0;
-                    setTimeout(typeWriterWrite, 25);
+                    setTimeout(typeWriterWrite, 500);
                 }
             }
         }

@@ -19,7 +19,7 @@ window.typewriter = {
                 leadElement.textContent += txts[k].charAt(i);
                 i++;
                 if (i <= txts[k].length-1){
-                    l=75;
+                    l=90;
                 }
                 else{
                     l=2000;

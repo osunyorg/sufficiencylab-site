@@ -61,10 +61,6 @@ items:
   target: "/en/events/"
   kind: page
   children: []
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page
@@ -73,4 +69,8 @@ items:
     target: "/en/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
 

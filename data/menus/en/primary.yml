@@ -53,8 +53,8 @@ items:
     target: "/en/programmes/leisure/"
     kind: page
     children: []
-- title: Posts
-  target: "/en/posts/"
+- title: News
+  target: "/en/news/"
   kind: page
   children: []
 - title: Events

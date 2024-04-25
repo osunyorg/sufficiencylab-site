@@ -37,24 +37,24 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
-- title: Programs
-  target: "/en/programs/"
+- title: Programmes
+  target: "/en/programmes/"
   kind: page
   children:
   - title: Nutrition
-    target: "/en/programs/nutrition/"
+    target: "/en/programmes/nutrition/"
     kind: page
     children: []
   - title: Clothing
-    target: "/en/programs/clothing/"
+    target: "/en/programmes/clothing/"
     kind: page
     children: []
   - title: Leisure
-    target: "/en/programs/leisure/"
+    target: "/en/programmes/leisure/"
     kind: page
     children: []
   - title: Urban areas and human settlements
-    target: "/en/programs/urban-areas-and-human-settlements/"
+    target: "/en/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
 - title: Posts

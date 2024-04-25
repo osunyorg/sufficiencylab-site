@@ -33,6 +33,10 @@ items:
     target: "/fr/about-us/contact/"
     kind: page
     children: []
+  - title: Sufficiency Summit
+    target: "/fr/about-us/sufficiency-summit/"
+    kind: page
+    children: []
 - title: Programmes
   target: "/fr/programmes/"
   kind: page

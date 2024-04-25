@@ -5,6 +5,10 @@ items:
   target: "/en/about-us/"
   kind: page
   children:
+  - title: Why the World Sufficiency Lab
+    target: "/en/about-us/why-the-world-sufficiency-lab/"
+    kind: page
+    children: []
   - title: Sufficiency community
     target: "/en/about-us/sufficiency-community/"
     kind: page
@@ -15,10 +19,6 @@ items:
     children: []
   - title: Sufficiency library
     target: "/en/about-us/sufficiency-library/"
-    kind: page
-    children: []
-  - title: Why the World Sufficiency Lab
-    target: "/en/about-us/why-the-world-sufficiency-lab/"
     kind: page
     children: []
   - title: Our philosophy

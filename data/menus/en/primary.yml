@@ -37,10 +37,6 @@ items:
   target: "/en/programmes/"
   kind: page
   children:
-  - title: Leisure
-    target: "/en/programmes/leisure/"
-    kind: page
-    children: []
   - title: Urban areas and human settlements
     target: "/en/programmes/urban-areas-and-human-settlements/"
     kind: page

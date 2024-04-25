@@ -21,12 +21,12 @@ items:
     target: "/en/about-us/sufficiency-community/"
     kind: page
     children: []
-  - title: Sufficiency academy
-    target: "/en/about-us/sufficiency-academy/"
-    kind: page
-    children: []
   - title: Sufficiency library
     target: "/en/about-us/sufficiency-library/"
+    kind: page
+    children: []
+  - title: Sufficiency academy
+    target: "/en/about-us/sufficiency-academy/"
     kind: page
     children: []
   - title: Contact
@@ -71,6 +71,10 @@ items:
     children: []
 - title: Team
   target: "/en/team/"
+  kind: page
+  children: []
+- title: Sufficiency summit
+  target: "/en/sufficiency-summit/"
   kind: page
   children: []
 

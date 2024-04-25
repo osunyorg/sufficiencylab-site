@@ -25,7 +25,7 @@ items:
     target: "/fr/about-us/sufficiency-library/"
     kind: page
     children: []
-  - title: Sufficiency Summit
+  - title: Sufficiency summit
     target: "/fr/about-us/sufficiency-summit/"
     kind: page
     children: []

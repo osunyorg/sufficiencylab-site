@@ -36,7 +36,23 @@ items:
 - title: Programmes
   target: "/en/programmes/"
   kind: page
-  children: []
+  children:
+  - title: Urban areas and human settlements
+    target: "/en/programmes/urban-areas-and-human-settlements/"
+    kind: page
+    children: []
+  - title: Nutrition
+    target: "/en/programmes/nutrition/"
+    kind: page
+    children: []
+  - title: Clothing
+    target: "/en/programmes/clothing/"
+    kind: page
+    children: []
+  - title: Leisure
+    target: "/en/programmes/leisure/"
+    kind: page
+    children: []
 - title: News
   target: "/en/news/"
   kind: page
@@ -48,5 +64,9 @@ items:
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page
-  children: []
+  children:
+  - title: Sufficiency First Coalition
+    target: "/en/initiatives/sufficiency-first-coalition/"
+    kind: page
+    children: []
 

@@ -13,20 +13,20 @@ items:
     target: "/fr/about-us/our-philosophy/"
     kind: page
     children: []
-  - title: Sufficiency community
-    target: "/fr/about-us/sufficiency-community/"
+  - title: Our governance
+    target: "/fr/about-us/our-governance/"
     kind: page
     children: []
-  - title: Sufficiency academy
-    target: "/fr/about-us/sufficiency-academy/"
+  - title: Sufficiency community
+    target: "/fr/about-us/sufficiency-community/"
     kind: page
     children: []
   - title: Sufficiency library
     target: "/fr/about-us/sufficiency-library/"
     kind: page
     children: []
-  - title: Our governance
-    target: "/fr/about-us/our-governance/"
+  - title: Sufficiency academy
+    target: "/fr/about-us/sufficiency-academy/"
     kind: page
     children: []
   - title: Contact

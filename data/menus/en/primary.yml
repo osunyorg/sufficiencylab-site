@@ -21,6 +21,10 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
+  - title: Sufficiency community
+    target: "/en/about-us/sufficiency-community/"
+    kind: page
+    children: []
 - title: Events
   target: "/en/events/"
   kind: page

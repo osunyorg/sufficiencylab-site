@@ -65,6 +65,10 @@ items:
     target: "/en/events/sufficiency-summit/"
     kind: page
     children: []
+  - title: Modelling workshop
+    target: "/en/events/modelling-workshop/"
+    kind: page
+    children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page

@@ -6,7 +6,7 @@ window.typewriter = {
         var i = 0;
         var j = 10;
         var txt = document.querySelector(".lead").textContent;
-        var txts = txt.split(' /');
+        var txts = txt.split('\n');
 
         var k = 0;
         var l = 0;

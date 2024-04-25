@@ -60,11 +60,7 @@ items:
 - title: Events
   target: "/en/events/"
   kind: page
-  children:
-  - title: Modelling workshop
-    target: "/en/events/modelling-workshop/"
-    kind: page
-    children: []
+  children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page

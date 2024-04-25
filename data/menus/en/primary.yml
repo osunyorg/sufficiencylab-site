@@ -61,10 +61,6 @@ items:
   target: "/en/events/"
   kind: page
   children:
-  - title: Sufficiency summit
-    target: "/en/events/sufficiency-summit/"
-    kind: page
-    children: []
   - title: Modelling workshop
     target: "/en/events/modelling-workshop/"
     kind: page

@@ -25,6 +25,10 @@ items:
     target: "/en/about-us/sufficiency-library/"
     kind: page
     children: []
+  - title: Sufficiency summit
+    target: "/en/about-us/sufficiency-summit/"
+    kind: page
+    children: []
   - title: Sufficiency academy
     target: "/en/about-us/sufficiency-academy/"
     kind: page
@@ -71,10 +75,6 @@ items:
     children: []
 - title: Team
   target: "/en/team/"
-  kind: page
-  children: []
-- title: Sufficiency summit
-  target: "/en/sufficiency-summit/"
   kind: page
   children: []
 

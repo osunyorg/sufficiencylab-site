@@ -33,10 +33,6 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
-- title: Posts
-  target: "/en/posts/"
-  kind: page
-  children: []
 - title: Programmes
   target: "/en/programmes/"
   kind: page
@@ -57,6 +53,10 @@ items:
     target: "/en/programmes/leisure/"
     kind: page
     children: []
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
 - title: Events
   target: "/en/events/"
   kind: page

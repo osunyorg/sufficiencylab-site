@@ -5,8 +5,4 @@ items:
   target: "/en/legal-terms/"
   kind: page
   children: []
-- title: Legal terms
-  target: "/en/legal-terms/"
-  kind: page
-  children: []
 

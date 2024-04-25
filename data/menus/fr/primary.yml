@@ -37,6 +37,18 @@ items:
   target: "/fr/programmes/"
   kind: page
   children:
+  - title: Nutrition
+    target: "/fr/programmes/nutrition/"
+    kind: page
+    children: []
+  - title: Clothing
+    target: "/fr/programmes/clothing/"
+    kind: page
+    children: []
+  - title: Leisure
+    target: "/fr/programmes/leisure/"
+    kind: page
+    children: []
   - title: Urban areas and human settlements
     target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page

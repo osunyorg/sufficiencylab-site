@@ -3,7 +3,7 @@
 baseURL: https://www.thesufficiencylab.org
 
 ## LANGUAGE
-defaultContentLanguage: fr
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 
 ## CACHE

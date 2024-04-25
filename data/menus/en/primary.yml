@@ -1,22 +1,22 @@
 ---
 title: Main menu
 items:
-- title: Events
-  target: "/en/events/"
-  kind: page
-  children: []
-- title: Posts
-  target: "/en/posts/"
-  kind: page
-  children: []
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 - title: About us
   target: "/en/about-us/"
   kind: page
   children:
+  - title: Sufficiency community
+    target: "/en/about-us/sufficiency-community/"
+    kind: page
+    children: []
+  - title: Sufficiency academy
+    target: "/en/about-us/sufficiency-academy/"
+    kind: page
+    children: []
+  - title: Sufficiency library
+    target: "/en/about-us/sufficiency-library/"
+    kind: page
+    children: []
   - title: Why the World Sufficiency Lab
     target: "/en/about-us/why-the-world-sufficiency-lab/"
     kind: page
@@ -33,26 +33,34 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
-- title: Programmes
-  target: "/en/programmes/"
+- title: Programs
+  target: "/en/programs/"
   kind: page
   children:
-  - title: Urban areas and human settlements
-    target: "/en/programmes/urban-areas-and-human-settlements/"
-    kind: page
-    children: []
   - title: Nutrition
-    target: "/en/programmes/nutrition/"
+    target: "/en/programs/nutrition/"
     kind: page
     children: []
   - title: Clothing
-    target: "/en/programmes/clothing/"
+    target: "/en/programs/clothing/"
     kind: page
     children: []
   - title: Leisure
-    target: "/en/programmes/leisure/"
+    target: "/en/programs/leisure/"
     kind: page
     children: []
+  - title: Urban areas and human settlements
+    target: "/en/programs/urban-areas-and-human-settlements/"
+    kind: page
+    children: []
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
+- title: Events
+  target: "/en/events/"
+  kind: page
+  children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page
@@ -61,4 +69,8 @@ items:
     target: "/en/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
 

@@ -25,6 +25,10 @@ items:
     target: "/en/about-us/sufficiency-community/"
     kind: page
     children: []
+  - title: Sufficiency academy
+    target: "/en/about-us/sufficiency-academy/"
+    kind: page
+    children: []
 - title: Events
   target: "/en/events/"
   kind: page

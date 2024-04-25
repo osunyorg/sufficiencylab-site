@@ -1,18 +1,6 @@
 ---
 title: Main menu
 items:
-- title: Events
-  target: "/en/events/"
-  kind: page
-  children: []
-- title: Posts
-  target: "/en/posts/"
-  kind: page
-  children: []
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 - title: About us
   target: "/en/about-us/"
   kind: page
@@ -33,6 +21,18 @@ items:
     target: "/en/about-us/contact/"
     kind: page
     children: []
+- title: Events
+  target: "/en/events/"
+  kind: page
+  children: []
+- title: Posts
+  target: "/en/posts/"
+  kind: page
+  children: []
+- title: Team
+  target: "/en/team/"
+  kind: page
+  children: []
 - title: Programmes
   target: "/en/programmes/"
   kind: page

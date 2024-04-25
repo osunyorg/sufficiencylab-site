@@ -9,6 +9,14 @@ items:
     target: "/en/about-us/why-the-world-sufficiency-lab/"
     kind: page
     children: []
+  - title: Our philosophy
+    target: "/en/about-us/our-philosophy/"
+    kind: page
+    children: []
+  - title: Our governance
+    target: "/en/about-us/our-governance/"
+    kind: page
+    children: []
   - title: Sufficiency community
     target: "/en/about-us/sufficiency-community/"
     kind: page
@@ -19,14 +27,6 @@ items:
     children: []
   - title: Sufficiency library
     target: "/en/about-us/sufficiency-library/"
-    kind: page
-    children: []
-  - title: Our philosophy
-    target: "/en/about-us/our-philosophy/"
-    kind: page
-    children: []
-  - title: Our governance
-    target: "/en/about-us/our-governance/"
     kind: page
     children: []
   - title: Contact

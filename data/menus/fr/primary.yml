@@ -5,18 +5,6 @@ items:
   target: "/fr/about-us/"
   kind: page
   children:
-  - title: Sufficiency community
-    target: "/fr/about-us/sufficiency-community/"
-    kind: page
-    children: []
-  - title: Sufficiency academy
-    target: "/fr/about-us/sufficiency-academy/"
-    kind: page
-    children: []
-  - title: Sufficiency library
-    target: "/fr/about-us/sufficiency-library/"
-    kind: page
-    children: []
   - title: Why the World Sufficiency Lab
     target: "/fr/about-us/why-the-world-sufficiency-lab/"
     kind: page
@@ -27,6 +15,22 @@ items:
     children: []
   - title: Our governance
     target: "/fr/about-us/our-governance/"
+    kind: page
+    children: []
+  - title: Sufficiency community
+    target: "/fr/about-us/sufficiency-community/"
+    kind: page
+    children: []
+  - title: Sufficiency library
+    target: "/fr/about-us/sufficiency-library/"
+    kind: page
+    children: []
+  - title: Sufficiency summit
+    target: "/fr/about-us/sufficiency-summit/"
+    kind: page
+    children: []
+  - title: Sufficiency academy
+    target: "/fr/about-us/sufficiency-academy/"
     kind: page
     children: []
   - title: Contact

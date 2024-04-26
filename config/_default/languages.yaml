@@ -9,12 +9,12 @@ en:
   params:
     social:
   permalinks:
-    posts: /posts/:year-:month-:day-:slug/
+    posts: /news/:year-:month-:day-:slug/
     events: /events/:year-:month-:day-:slug/
     events_categories: /events/:slug/
     persons: /team/:slug/
     persons_categories: /team/:slug/
-    authors: /team/:slug/posts/
+    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors

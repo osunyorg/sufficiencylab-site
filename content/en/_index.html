@@ -30,11 +30,10 @@ bodyclass: >-
 
 children:
   - "pages/about-us/_index.html"
-  - "pages/programs/_index.html"
+  - "pages/programmes/_index.html"
   - "posts/_index.html"
   - "events/_index.html"
   - "pages/initiatives/_index.html"
-  - "persons/_index.html"
 meta_description: >
   
 description: >
@@ -82,18 +81,14 @@ contents:
 
 
   - kind: block
-    template: chapter
+    template: call_to_action
     title: >-
       
     ranks:
       self: false
     data:
-      layout: no_background
       text: >-
         <p>Sufficiency policies are a set of measures and daily practices that avoid demand for energy, materials, land and water while delivering human well-being for all within planetary boundaries.<br></p>
-
-      notes: >-
-        
 
 
       alt: >-
@@ -102,27 +97,28 @@ contents:
       credit: >-
         
 
+      buttons:
 
 
   - kind: block
     template: agenda
     title: >-
-      
+      UPCOMING EVENTS
     ranks:
-      self: false
-      children: 2
+      self: 2
+      children: 3
     data:
       mode: all
-      layout: grid
+      layout: list
       description: >-
         
 
       no_event_message: >-
         
 
-      show_summary: false
-      show_category: false
-      show_status: false
+      show_summary: true
+      show_category: true
+      show_status: true
       title_link: "/en/events/"
       events:
         - path: "/en/events/2024-05-04-opening-keynote/"

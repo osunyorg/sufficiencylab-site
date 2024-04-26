@@ -41,8 +41,11 @@
 
 
     .block-pages
+        
         &--grid 
             .grid
+                padding-top: pxToRem(96)
+                padding-bottom: pxToRem(96)
                 @include in-page-without-sidebar 
                     grid-template-columns: repeat(2, 1fr)
 

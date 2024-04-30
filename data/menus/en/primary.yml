@@ -45,12 +45,12 @@ items:
   target: "/en/activities/"
   kind: page
   children:
-  - title: Sufficiency library
-    target: "/en/activities/sufficiency-library/"
-    kind: page
-    children: []
   - title: Sufficiency community
     target: "/en/activities/sufficiency-community/"
+    kind: page
+    children: []
+  - title: Sufficiency library
+    target: "/en/activities/sufficiency-library/"
     kind: page
     children: []
   - title: Sufficiency academy

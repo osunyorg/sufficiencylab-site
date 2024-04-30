@@ -53,6 +53,10 @@ items:
     target: "/en/programmes/leisure/"
     kind: page
     children: []
+- title: Activities
+  target: "/en/activities/"
+  kind: page
+  children: []
 - title: News
   target: "/en/news/"
   kind: page
@@ -65,10 +69,6 @@ items:
     target: "/en/events/sufficiency-summit/"
     kind: page
     children: []
-- title: Activities
-  target: "/en/activities/"
-  kind: page
-  children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page

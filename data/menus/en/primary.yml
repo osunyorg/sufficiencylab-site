@@ -17,14 +17,6 @@ items:
     target: "/en/about-us/our-governance/"
     kind: page
     children: []
-  - title: Sufficiency library
-    target: "/en/about-us/sufficiency-library/"
-    kind: page
-    children: []
-  - title: Sufficiency academy
-    target: "/en/about-us/sufficiency-academy/"
-    kind: page
-    children: []
   - title: Contact
     target: "/en/about-us/contact/"
     kind: page
@@ -53,8 +45,16 @@ items:
   target: "/en/activities/"
   kind: page
   children:
+  - title: Sufficiency library
+    target: "/en/activities/sufficiency-library/"
+    kind: page
+    children: []
   - title: Sufficiency community
     target: "/en/activities/sufficiency-community/"
+    kind: page
+    children: []
+  - title: Sufficiency academy
+    target: "/en/activities/sufficiency-academy/"
     kind: page
     children: []
 - title: News

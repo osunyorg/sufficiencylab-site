@@ -41,6 +41,10 @@ items:
   target: "/fr/programmes/"
   kind: page
   children:
+  - title: Urban areas and human settlements
+    target: "/fr/programmes/urban-areas-and-human-settlements/"
+    kind: page
+    children: []
   - title: Nutrition
     target: "/fr/programmes/nutrition/"
     kind: page
@@ -51,10 +55,6 @@ items:
     children: []
   - title: Leisure
     target: "/fr/programmes/leisure/"
-    kind: page
-    children: []
-  - title: Urban areas and human settlements
-    target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
 - title: Actualités

@@ -41,7 +41,7 @@ items:
   target: "/fr/programmes/"
   kind: page
   children:
-  - title: Urban areas and human settlements
+  - title: Secteur du bâtiment
     target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []

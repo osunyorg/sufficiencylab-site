@@ -17,6 +17,10 @@ items:
     target: "/fr/a-propos/our-governance/"
     kind: page
     children: []
+  - title: Contact
+    target: "/fr/a-propos/contact/"
+    kind: page
+    children: []
   - title: Sufficiency community
     target: "/fr/a-propos/sufficiency-community/"
     kind: page
@@ -31,10 +35,6 @@ items:
     children: []
   - title: Sufficiency academy
     target: "/fr/a-propos/sufficiency-academy/"
-    kind: page
-    children: []
-  - title: Contact
-    target: "/fr/a-propos/contact/"
     kind: page
     children: []
 - title: Programmes

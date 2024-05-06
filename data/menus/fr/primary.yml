@@ -45,14 +45,18 @@ items:
     target: "/fr/programmes/loisirs/"
     kind: page
     children: []
+- title: Activités
+  target: "/fr/activites/"
+  kind: page
+  children: []
+- title: Communauté
+  target: "/fr/activites/community/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/fr/news/"
   kind: page
   children:
-  - title: Communauté
-    target: "/fr/news/community/"
-    kind: page
-    children: []
   - title: Sufficiency library
     target: "/fr/news/sufficiency-library/"
     kind: page
@@ -73,8 +77,4 @@ items:
     target: "/fr/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
-- title: Activités
-  target: "/fr/activites/"
-  kind: page
-  children: []
 

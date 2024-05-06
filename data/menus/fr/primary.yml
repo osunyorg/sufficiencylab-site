@@ -49,7 +49,7 @@ items:
     target: "/fr/programmes/nutrition/"
     kind: page
     children: []
-  - title: Clothing
+  - title: Mode
     target: "/fr/programmes/clothing/"
     kind: page
     children: []

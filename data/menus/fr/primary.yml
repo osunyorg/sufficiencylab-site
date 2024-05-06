@@ -1,67 +1,71 @@
 ---
 title: Menu principal
 items:
-- title: About us
-  target: "/fr/about-us/"
+- title: À propos
+  target: "/fr/a-propos/"
   kind: page
   children:
-  - title: Why the World Sufficiency Lab
-    target: "/fr/about-us/why-the-world-sufficiency-lab/"
+  - title: Pourquoi le World Sufficiency Lab
+    target: "/fr/a-propos/pourquoi-le-world-sufficiency-lab/"
     kind: page
     children: []
   - title: Our philosophy
-    target: "/fr/about-us/our-philosophy/"
+    target: "/fr/a-propos/our-philosophy/"
     kind: page
     children: []
   - title: Our governance
-    target: "/fr/about-us/our-governance/"
-    kind: page
-    children: []
-  - title: Sufficiency community
-    target: "/fr/about-us/sufficiency-community/"
-    kind: page
-    children: []
-  - title: Sufficiency library
-    target: "/fr/about-us/sufficiency-library/"
-    kind: page
-    children: []
-  - title: Sufficiency summit
-    target: "/fr/about-us/sufficiency-summit/"
-    kind: page
-    children: []
-  - title: Sufficiency academy
-    target: "/fr/about-us/sufficiency-academy/"
+    target: "/fr/a-propos/our-governance/"
     kind: page
     children: []
   - title: Contact
-    target: "/fr/about-us/contact/"
+    target: "/fr/a-propos/contact/"
+    kind: page
+    children: []
+  - title: Sufficiency summit
+    target: "/fr/a-propos/sufficiency-summit/"
     kind: page
     children: []
 - title: Programmes
   target: "/fr/programmes/"
   kind: page
   children:
-  - title: Nutrition
-    target: "/fr/programmes/nutrition/"
+  - title: Urbanisme
+    target: "/fr/programmes/urbanisme/"
     kind: page
     children: []
-  - title: Clothing
-    target: "/fr/programmes/clothing/"
+  - title: Alimentation
+    target: "/fr/programmes/alimentation/"
     kind: page
     children: []
-  - title: Leisure
-    target: "/fr/programmes/leisure/"
+  - title: Mode
+    target: "/fr/programmes/mode/"
     kind: page
     children: []
-  - title: Urban areas and human settlements
-    target: "/fr/programmes/urban-areas-and-human-settlements/"
+  - title: Loisirs
+    target: "/fr/programmes/loisirs/"
     kind: page
     children: []
-- title: News
+- title: Activités
+  target: "/fr/activites/"
+  kind: page
+  children:
+  - title: Communauté
+    target: "/fr/activites/community/"
+    kind: page
+    children: []
+  - title: Librairie
+    target: "/fr/activites/library/"
+    kind: page
+    children: []
+  - title: Académie
+    target: "/fr/activites/academie/"
+    kind: page
+    children: []
+- title: Actualités
   target: "/fr/news/"
   kind: page
   children: []
-- title: Events
+- title: Évènements
   target: "/fr/events/"
   kind: page
   children: []
@@ -73,8 +77,4 @@ items:
     target: "/fr/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
-- title: Équipe
-  target: "/fr/equipe/"
-  kind: page
-  children: []
 

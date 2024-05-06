@@ -46,7 +46,7 @@ items:
     kind: page
     children: []
   - title: Alimentation
-    target: "/fr/programmes/nutrition/"
+    target: "/fr/programmes/alimentation/"
     kind: page
     children: []
   - title: Mode

@@ -61,7 +61,7 @@ items:
   target: "/fr/news/"
   kind: page
   children: []
-- title: Events
+- title: Évènements
   target: "/fr/events/"
   kind: page
   children: []

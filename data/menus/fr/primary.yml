@@ -5,8 +5,8 @@ items:
   target: "/fr/a-propos/"
   kind: page
   children:
-  - title: Why the World Sufficiency Lab
-    target: "/fr/a-propos/why-the-world-sufficiency-lab/"
+  - title: Pourquoi le World Sufficiency Lab
+    target: "/fr/a-propos/pourquoi-le-world-sufficiency-lab/"
     kind: page
     children: []
   - title: Our philosophy

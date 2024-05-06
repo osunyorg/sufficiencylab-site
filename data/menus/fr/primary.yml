@@ -53,8 +53,8 @@ items:
     target: "/fr/programmes/clothing/"
     kind: page
     children: []
-  - title: Leisure
-    target: "/fr/programmes/leisure/"
+  - title: Loisirs
+    target: "/fr/programmes/loisirs/"
     kind: page
     children: []
 - title: Actualités

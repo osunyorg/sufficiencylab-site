@@ -48,23 +48,23 @@ items:
 - title: Activités
   target: "/fr/activites/"
   kind: page
-  children: []
-- title: Communauté
-  target: "/fr/activites/community/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/fr/news/"
-  kind: page
   children:
+  - title: Communauté
+    target: "/fr/activites/community/"
+    kind: page
+    children: []
   - title: Sufficiency library
-    target: "/fr/news/sufficiency-library/"
+    target: "/fr/activites/sufficiency-library/"
     kind: page
     children: []
   - title: Sufficiency academy
-    target: "/fr/news/sufficiency-academy/"
+    target: "/fr/activites/sufficiency-academy/"
     kind: page
     children: []
+- title: Actualités
+  target: "/fr/news/"
+  kind: page
+  children: []
 - title: Évènements
   target: "/fr/events/"
   kind: page

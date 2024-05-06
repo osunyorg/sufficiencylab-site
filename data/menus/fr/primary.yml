@@ -57,7 +57,7 @@ items:
     target: "/fr/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
-- title: News
+- title: Actualités
   target: "/fr/news/"
   kind: page
   children: []

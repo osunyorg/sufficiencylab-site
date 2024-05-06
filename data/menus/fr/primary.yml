@@ -73,4 +73,8 @@ items:
     target: "/fr/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+- title: Activités
+  target: "/fr/activites/"
+  kind: page
+  children: []
 

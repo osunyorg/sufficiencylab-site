@@ -53,8 +53,8 @@ items:
     target: "/fr/activites/community/"
     kind: page
     children: []
-  - title: Sufficiency library
-    target: "/fr/activites/sufficiency-library/"
+  - title: Librairie
+    target: "/fr/activites/library/"
     kind: page
     children: []
   - title: Sufficiency academy

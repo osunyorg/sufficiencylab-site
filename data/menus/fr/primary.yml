@@ -42,7 +42,7 @@ items:
   kind: page
   children:
   - title: Urbanisme
-    target: "/fr/programmes/urban-areas-and-human-settlements/"
+    target: "/fr/programmes/urbanisme/"
     kind: page
     children: []
   - title: Alimentation

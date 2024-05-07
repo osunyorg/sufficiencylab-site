@@ -64,11 +64,7 @@ items:
 - title: Events
   target: "/en/events/"
   kind: page
-  children:
-  - title: Sufficiency summit
-    target: "/en/events/sufficiency-summit/"
-    kind: page
-    children: []
+  children: []
 - title: Initiatives
   target: "/en/initiatives/"
   kind: page

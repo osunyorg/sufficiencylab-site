@@ -57,6 +57,10 @@ items:
     target: "/en/activities/sufficiency-academy/"
     kind: page
     children: []
+  - title: Sufficiency summit
+    target: "/en/activities/sufficiency-summit/"
+    kind: page
+    children: []
 - title: News
   target: "/en/news/"
   kind: page

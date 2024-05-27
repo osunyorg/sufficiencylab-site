@@ -12,9 +12,9 @@ en:
     posts: /news/:year-:month-:day-:slug/
     events: /events/:year-:month-:day-:slug/
     events_categories: /events/:slug/
-    persons: /team/:slug/
-    persons_categories: /team/:slug/
-    authors: /team/:slug/news/
+    persons: /about-us/team/:slug/
+    persons_categories: /about-us/team/:slug/
+    authors: /about-us/team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors

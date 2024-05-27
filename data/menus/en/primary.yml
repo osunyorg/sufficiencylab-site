@@ -17,6 +17,10 @@ items:
     target: "/en/about-us/our-governance/"
     kind: page
     children: []
+  - title: The team
+    target: "/en/about-us/team/"
+    kind: page
+    children: []
   - title: Contact
     target: "/en/about-us/contact/"
     kind: page

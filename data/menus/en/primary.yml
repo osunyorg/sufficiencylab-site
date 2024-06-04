@@ -41,8 +41,8 @@ items:
     target: "/en/programmes/clothing/"
     kind: page
     children: []
-  - title: Leisure
-    target: "/en/programmes/leisure/"
+  - title: Mobility
+    target: "/en/programmes/mobility/"
     kind: page
     children: []
 - title: Activities

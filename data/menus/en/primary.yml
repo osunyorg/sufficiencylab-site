@@ -17,6 +17,10 @@ items:
     target: "/en/about-us/our-governance/"
     kind: page
     children: []
+  - title: The team
+    target: "/en/about-us/the-team/"
+    kind: page
+    children: []
   - title: Contact
     target: "/en/about-us/contact/"
     kind: page
@@ -25,20 +29,20 @@ items:
   target: "/en/programmes/"
   kind: page
   children:
-  - title: Urban areas and human settlements
+  - title: Urban Areas and Human Settlements
     target: "/en/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
-  - title: Nutrition
-    target: "/en/programmes/nutrition/"
+  - title: 'Digitalisation '
+    target: "/en/programmes/digitalisation/"
     kind: page
     children: []
   - title: Clothing
     target: "/en/programmes/clothing/"
     kind: page
     children: []
-  - title: Leisure
-    target: "/en/programmes/leisure/"
+  - title: Mobility
+    target: "/en/programmes/mobility/"
     kind: page
     children: []
 - title: Activities

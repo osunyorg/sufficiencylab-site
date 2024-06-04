@@ -29,7 +29,7 @@ items:
   target: "/en/programmes/"
   kind: page
   children:
-  - title: Urban areas and human settlements
+  - title: Urban Areas and Human Settlements
     target: "/en/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []

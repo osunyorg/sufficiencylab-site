@@ -5,7 +5,7 @@ items:
   target: "/en/about-us/"
   kind: page
   children:
-  - title: The team
+  - title: Founders
     target: "/en/about-us/the-team/"
     kind: page
     children: []

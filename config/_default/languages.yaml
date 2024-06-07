@@ -13,7 +13,7 @@ en:
     events: /events/:year-:month-:day-:slug/
     events_categories: /events/:slug/
     persons: /team/:slug/
-    persons_categories: /team/:slug/
+    persons_categories: /team/categories/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -41,7 +41,7 @@ fr:
     events: /events/:year-:month-:day-:slug/
     events_categories: /events/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/news/
   taxonomies:
     administrator: administrators

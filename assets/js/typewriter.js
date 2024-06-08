@@ -7,7 +7,7 @@ window.typewriter = {
         var j = 10;
         var txt = document.querySelector(".lead").innerHTML;
         console.log(txt);
-        var txts = txt.split("<br>");
+        var txts = txt.split("/");
 
         var k = 0;
         var l = 0;

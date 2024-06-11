@@ -77,4 +77,8 @@ items:
     target: "/fr/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+- title: Équipe
+  target: "/fr/equipe/"
+  kind: page
+  children: []
 

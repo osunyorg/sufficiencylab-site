@@ -13,7 +13,7 @@ items:
     target: "/about-us/scientific-committee/"
     kind: page
     children: []
-  - title: Hubs commitee
+  - title: Hubs Committee
     target: "/about-us/hubs-commitee/"
     kind: page
     children: []

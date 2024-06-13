@@ -57,6 +57,10 @@ items:
   target: "/en/news/"
   kind: page
   children: []
+- title: Hubs commitee
+  target: "/en/hubs-commitee/"
+  kind: page
+  children: []
 - title: Events
   target: "/en/events/"
   kind: page
@@ -69,8 +73,4 @@ items:
     target: "/en/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
-- title: Hubs commitee
-  target: "/en/hubs-commitee/"
-  kind: page
-  children: []
 

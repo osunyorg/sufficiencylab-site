@@ -9,6 +9,10 @@ items:
     target: "/en/about-us/the-team/"
     kind: page
     children: []
+  - title: Scientific committee
+    target: "/en/about-us/scientific-committee/"
+    kind: page
+    children: []
 - title: Programmes
   target: "/en/programmes/"
   kind: page

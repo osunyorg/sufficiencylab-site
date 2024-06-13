@@ -65,8 +65,4 @@ items:
     target: "/en/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
-- title: Team
-  target: "/en/team/"
-  kind: page
-  children: []
 

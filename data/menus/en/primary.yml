@@ -13,6 +13,10 @@ items:
     target: "/en/about-us/scientific-committee/"
     kind: page
     children: []
+  - title: Hubs commitee
+    target: "/en/about-us/hubs-commitee/"
+    kind: page
+    children: []
 - title: Programmes
   target: "/en/programmes/"
   kind: page
@@ -55,10 +59,6 @@ items:
     children: []
 - title: News
   target: "/en/news/"
-  kind: page
-  children: []
-- title: Hubs commitee
-  target: "/en/hubs-commitee/"
   kind: page
   children: []
 - title: Events

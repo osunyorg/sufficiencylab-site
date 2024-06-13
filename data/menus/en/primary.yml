@@ -2,75 +2,75 @@
 title: Main menu
 items:
 - title: About us
-  target: "/en/about-us/"
+  target: "/about-us/"
   kind: page
   children:
   - title: Founders
-    target: "/en/about-us/the-team/"
+    target: "/about-us/the-team/"
     kind: page
     children: []
   - title: Scientific Committee
-    target: "/en/about-us/scientific-committee/"
+    target: "/about-us/scientific-committee/"
     kind: page
     children: []
   - title: Hubs commitee
-    target: "/en/about-us/hubs-commitee/"
+    target: "/about-us/hubs-commitee/"
     kind: page
     children: []
 - title: Programmes
-  target: "/en/programmes/"
+  target: "/programmes/"
   kind: page
   children:
   - title: Urban Areas and Human Settlements
-    target: "/en/programmes/urban-areas-and-human-settlements/"
+    target: "/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
   - title: 'Digitalisation '
-    target: "/en/programmes/digitalisation/"
+    target: "/programmes/digitalisation/"
     kind: page
     children: []
   - title: Clothing
-    target: "/en/programmes/clothing/"
+    target: "/programmes/clothing/"
     kind: page
     children: []
   - title: Mobility
-    target: "/en/programmes/mobility/"
+    target: "/programmes/mobility/"
     kind: page
     children: []
 - title: Activities
-  target: "/en/activities/"
+  target: "/activities/"
   kind: page
   children:
   - title: Sufficiency community
-    target: "/en/activities/sufficiency-community/"
+    target: "/activities/sufficiency-community/"
     kind: page
     children: []
   - title: Sufficiency library
-    target: "/en/activities/sufficiency-library/"
+    target: "/activities/sufficiency-library/"
     kind: page
     children: []
   - title: Sufficiency academy
-    target: "/en/activities/sufficiency-academy/"
+    target: "/activities/sufficiency-academy/"
     kind: page
     children: []
   - title: Sufficiency summit
-    target: "/en/activities/sufficiency-summit/"
+    target: "/activities/sufficiency-summit/"
     kind: page
     children: []
 - title: News
-  target: "/en/news/"
+  target: "/news/"
   kind: page
   children: []
 - title: Events
-  target: "/en/events/"
+  target: "/events/"
   kind: page
   children: []
 - title: Initiatives
-  target: "/en/initiatives/"
+  target: "/initiatives/"
   kind: page
   children:
   - title: Sufficiency First Coalition
-    target: "/en/initiatives/sufficiency-first-coalition/"
+    target: "/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
 

@@ -14,7 +14,7 @@ items:
     kind: page
     children: []
   - title: Hubs Committee
-    target: "/about-us/hubs-commitee/"
+    target: "/about-us/hubs-committee/"
     kind: page
     children: []
 - title: Programmes

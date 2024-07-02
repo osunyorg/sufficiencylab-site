@@ -17,3 +17,7 @@ params:
   menu:
     dropdown:
       linkToLevel1: true
+
+  posts:
+    index:
+      layout: grid

@@ -1,0 +1,100 @@
+---
+title: Menu principal
+items:
+- title: À propos
+  target: "/a-propos/"
+  kind: page
+  children:
+  - title: Pourquoi le World Sufficiency Lab
+    target: "/a-propos/pourquoi-le-world-sufficiency-lab/"
+    kind: page
+    children: []
+  - title: Our philosophy
+    target: "/a-propos/our-philosophy/"
+    kind: page
+    children: []
+  - title: Our governance
+    target: "/a-propos/our-governance/"
+    kind: page
+    children: []
+  - title: Contact
+    target: "/a-propos/contact/"
+    kind: page
+    children: []
+  - title: Sufficiency summit
+    target: "/a-propos/sufficiency-summit/"
+    kind: page
+    children: []
+- title: Activités
+  target: "/activites/"
+  kind: page
+  children: []
+- title: Programmes
+  target: "/programmes/"
+  kind: page
+  children:
+  - title: Urbanisme
+    target: "/programmes/urbanisme/"
+    kind: page
+    children: []
+  - title: Alimentation
+    target: "/programmes/alimentation/"
+    kind: page
+    children: []
+  - title: Mode
+    target: "/programmes/mode/"
+    kind: page
+    children: []
+  - title: Loisirs
+    target: "/programmes/loisirs/"
+    kind: page
+    children: []
+- title: Actualités
+  target: "/news/"
+  kind: page
+  children: []
+- title: Évènements
+  target: "/events/"
+  kind: page
+  children: []
+- title: Initiatives
+  target: "/initiatives/"
+  kind: page
+  children:
+  - title: Sufficiency First Coalition
+    target: "/initiatives/sufficiency-first-coalition/"
+    kind: page
+    children: []
+- title: Équipe
+  target: "/equipe/"
+  kind: page
+  children: []
+- title: Projets
+  target: "/projets/"
+  kind: page
+  children: []
+- title: Diplômes
+  target: "/diplomes/"
+  kind: page
+  children: []
+- title: Formations
+  target: "/formations/"
+  kind: page
+  children: []
+- title: Volumes
+  target: "/volumes/"
+  kind: page
+  children: []
+- title: Papiers
+  target: "/papiers/"
+  kind: page
+  children: []
+- title: Publications HAL
+  target: "/publications/"
+  kind: page
+  children: []
+- title: Campus
+  target: "/campus/"
+  kind: page
+  children: []
+

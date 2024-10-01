@@ -93,8 +93,4 @@ items:
   target: "/papers/"
   kind: page
   children: []
-- title: HAL publications
-  target: "/publications/"
-  kind: page
-  children: []
 

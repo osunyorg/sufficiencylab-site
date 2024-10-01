@@ -97,8 +97,4 @@ items:
   target: "/publications/"
   kind: page
   children: []
-- title: Campus
-  target: "/campus/"
-  kind: page
-  children: []
 

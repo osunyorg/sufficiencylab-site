@@ -89,8 +89,4 @@ items:
   target: "/volumes/"
   kind: page
   children: []
-- title: Papers
-  target: "/papers/"
-  kind: page
-  children: []
 

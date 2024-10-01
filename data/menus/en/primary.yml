@@ -85,8 +85,4 @@ items:
   target: "/programs/"
   kind: page
   children: []
-- title: Volumes
-  target: "/volumes/"
-  kind: page
-  children: []
 

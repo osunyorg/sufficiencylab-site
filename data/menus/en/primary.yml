@@ -73,12 +73,4 @@ items:
     target: "/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
-- title: Projects
-  target: "/projects/"
-  kind: page
-  children: []
-- title: Diplomas
-  target: "/diplomas/"
-  kind: page
-  children: []
 

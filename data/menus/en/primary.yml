@@ -81,8 +81,4 @@ items:
   target: "/diplomas/"
   kind: page
   children: []
-- title: Programs
-  target: "/programs/"
-  kind: page
-  children: []
 

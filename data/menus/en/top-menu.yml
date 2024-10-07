@@ -1,0 +1,12 @@
+---
+title: Top menu
+items:
+- title: Lab
+  target: ''
+  kind: blank
+  children: []
+- title: Library
+  target: https://library.thesufficiencylab.org
+  kind: url
+  children: []
+

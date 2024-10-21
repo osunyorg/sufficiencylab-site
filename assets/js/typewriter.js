@@ -5,17 +5,17 @@ window.typewriter = {
 
         var i = 0;
         var j = 10;
-        var txt = document.querySelector(".lead").innerHTML;
-        console.log(txt);
+        var leadText = document.querySelector(".hero hgroup > p");
+        var txt = leadText.innerHTML;
         var txts = txt.split("/");
 
         var k = 0;
         var l = 0;
-        document.querySelector(".lead").innerHTML = "";
-        document.querySelector(".lead").style.display="inline";
+        leadText.innerHTML = "";
+        leadText.style.display="inline";
 
         function typeWriterWrite() {
-            var leadElement = document.querySelector(".lead");
+            var leadElement = leadText;
             if (i < txts[k].length) {
                 leadElement.textContent += txts[k].charAt(i);
                 i++;

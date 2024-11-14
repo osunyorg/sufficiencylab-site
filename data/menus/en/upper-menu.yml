@@ -1,4 +1,8 @@
 ---
 title: Upper menu
-items: []
+items:
+- title: Lab
+  target: ''
+  kind: blank
+  children: []
 

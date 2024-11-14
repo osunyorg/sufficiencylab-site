@@ -2,7 +2,11 @@
 title: Upper menu
 items:
 - title: Lab
-  target: ''
-  kind: blank
+  target: "/"
+  kind: page
+  children: []
+- title: Librairy
+  target: https://library.thesufficiencylab.org
+  kind: url
   children: []
 

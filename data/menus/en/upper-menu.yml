@@ -6,7 +6,7 @@ items:
   kind: page
   children: []
 - title: Library
-  target: https://library.thesufficiencylab.org
-  kind: url
+  target: ''
+  kind: blank
   children: []
 

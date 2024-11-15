@@ -5,8 +5,8 @@ items:
   target: "/"
   kind: page
   children: []
-- title: Librairy
-  target: https://library.thesufficiencylab.org
-  kind: url
+- title: Library
+  target: ''
+  kind: blank
   children: []
 

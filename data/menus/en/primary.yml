@@ -9,14 +9,18 @@ items:
     target: "/about-us/the-team/"
     kind: page
     children: []
+    file: content/en/pages/about-us/the-team/_index.html
   - title: Scientific Committee
     target: "/about-us/scientific-committee/"
     kind: page
     children: []
+    file: content/en/pages/about-us/scientific-committee/_index.html
   - title: Hubs Committee
     target: "/about-us/hubs-committee/"
     kind: page
     children: []
+    file: content/en/pages/about-us/hubs-committee/_index.html
+  file: content/en/pages/about-us/_index.html
 - title: Programmes
   target: "/programmes/"
   kind: page
@@ -25,18 +29,23 @@ items:
     target: "/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
+    file: content/en/pages/programmes/urban-areas-and-human-settlements/_index.html
   - title: 'Digitalisation '
     target: "/programmes/digitalisation/"
     kind: page
     children: []
+    file: content/en/pages/programmes/digitalisation/_index.html
   - title: Clothing
     target: "/programmes/clothing/"
     kind: page
     children: []
+    file: content/en/pages/programmes/clothing/_index.html
   - title: Mobility
     target: "/programmes/mobility/"
     kind: page
     children: []
+    file: content/en/pages/programmes/mobility/_index.html
+  file: content/en/pages/programmes/_index.html
 - title: Activities
   target: "/activities/"
   kind: page
@@ -45,26 +54,33 @@ items:
     target: "/activities/sufficiency-community/"
     kind: page
     children: []
+    file: content/en/pages/activities/sufficiency-community/_index.html
   - title: Sufficiency library
     target: "/activities/sufficiency-library/"
     kind: page
     children: []
+    file: content/en/pages/activities/sufficiency-library/_index.html
   - title: Sufficiency academy
     target: "/activities/sufficiency-academy/"
     kind: page
     children: []
+    file: content/en/pages/activities/sufficiency-academy/_index.html
   - title: Sufficiency summit
     target: "/activities/sufficiency-summit/"
     kind: page
     children: []
+    file: content/en/pages/activities/sufficiency-summit/_index.html
+  file: content/en/pages/activities/_index.html
 - title: News
   target: "/news/"
   kind: page
   children: []
+  file: content/en/posts/_index.html
 - title: Events
   target: "/events/"
   kind: page
   children: []
+  file: content/en/events/_index.html
 - title: Initiatives
   target: "/initiatives/"
   kind: page
@@ -73,4 +89,6 @@ items:
     target: "/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+    file: content/en/pages/initiatives/sufficiency-first-coalition/_index.html
+  file: content/en/pages/initiatives/_index.html
 

@@ -5,6 +5,7 @@ items:
   target: "/"
   kind: page
   children: []
+  path: "/"
   file: content/en/_index.html
 - title: Library
   target: https://library.thesufficiencylab.org

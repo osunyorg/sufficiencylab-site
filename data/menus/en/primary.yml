@@ -9,17 +9,21 @@ items:
     target: "/about-us/the-team/"
     kind: page
     children: []
+    path: "/pages/about-us/the-team"
     file: content/en/pages/about-us/the-team/_index.html
   - title: Scientific Committee
     target: "/about-us/scientific-committee/"
     kind: page
     children: []
+    path: "/pages/about-us/scientific-committee"
     file: content/en/pages/about-us/scientific-committee/_index.html
   - title: Hubs Committee
     target: "/about-us/hubs-committee/"
     kind: page
     children: []
+    path: "/pages/about-us/hubs-committee"
     file: content/en/pages/about-us/hubs-committee/_index.html
+  path: "/pages/about-us"
   file: content/en/pages/about-us/_index.html
 - title: Programmes
   target: "/programmes/"
@@ -29,22 +33,27 @@ items:
     target: "/programmes/urban-areas-and-human-settlements/"
     kind: page
     children: []
+    path: "/pages/programmes/urban-areas-and-human-settlements"
     file: content/en/pages/programmes/urban-areas-and-human-settlements/_index.html
   - title: 'Digitalisation '
     target: "/programmes/digitalisation/"
     kind: page
     children: []
+    path: "/pages/programmes/digitalisation"
     file: content/en/pages/programmes/digitalisation/_index.html
   - title: Clothing
     target: "/programmes/clothing/"
     kind: page
     children: []
+    path: "/pages/programmes/clothing"
     file: content/en/pages/programmes/clothing/_index.html
   - title: Mobility
     target: "/programmes/mobility/"
     kind: page
     children: []
+    path: "/pages/programmes/mobility"
     file: content/en/pages/programmes/mobility/_index.html
+  path: "/pages/programmes"
   file: content/en/pages/programmes/_index.html
 - title: Activities
   target: "/activities/"
@@ -54,32 +63,39 @@ items:
     target: "/activities/sufficiency-community/"
     kind: page
     children: []
+    path: "/pages/activities/sufficiency-community"
     file: content/en/pages/activities/sufficiency-community/_index.html
   - title: Sufficiency library
     target: "/activities/sufficiency-library/"
     kind: page
     children: []
+    path: "/pages/activities/sufficiency-library"
     file: content/en/pages/activities/sufficiency-library/_index.html
   - title: Sufficiency academy
     target: "/activities/sufficiency-academy/"
     kind: page
     children: []
+    path: "/pages/activities/sufficiency-academy"
     file: content/en/pages/activities/sufficiency-academy/_index.html
   - title: Sufficiency summit
     target: "/activities/sufficiency-summit/"
     kind: page
     children: []
+    path: "/pages/activities/sufficiency-summit"
     file: content/en/pages/activities/sufficiency-summit/_index.html
+  path: "/pages/activities"
   file: content/en/pages/activities/_index.html
 - title: News
   target: "/news/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Events
   target: "/events/"
   kind: page
   children: []
+  path: "/events"
   file: content/en/events/_index.html
 - title: Initiatives
   target: "/initiatives/"
@@ -89,6 +105,8 @@ items:
     target: "/initiatives/sufficiency-first-coalition/"
     kind: page
     children: []
+    path: "/pages/initiatives/sufficiency-first-coalition"
     file: content/en/pages/initiatives/sufficiency-first-coalition/_index.html
+  path: "/pages/initiatives"
   file: content/en/pages/initiatives/_index.html
 

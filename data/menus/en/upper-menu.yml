@@ -4,11 +4,13 @@ items:
 - title: Lab
   target: "/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/en/_index.html
 - title: Library
   target: https://library.thesufficiencylab.org
   kind: url
+  new_tab: false
   children: []
 

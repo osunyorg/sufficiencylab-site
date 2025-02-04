@@ -113,4 +113,9 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
+- title: Blog
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 

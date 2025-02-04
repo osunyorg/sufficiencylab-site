@@ -114,10 +114,12 @@ items:
   path: "/events"
   file: content/en/events/_index.html
 - title: Blog
-  target: ''
-  kind: blank
+  target: "/blog/"
+  kind: page
   new_tab: false
   children: []
+  path: "/persons"
+  file: content/en/persons/_index.html
 - title: Sufficiency 1st Initiative
   target: ''
   kind: blank

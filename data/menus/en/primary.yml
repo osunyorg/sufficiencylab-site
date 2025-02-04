@@ -113,6 +113,13 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
+- title: Blog
+  target: "/blog/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/blog"
+  file: content/en/pages/blog/_index.html
 - title: Sufficiency 1st Initiative
   target: ''
   kind: blank

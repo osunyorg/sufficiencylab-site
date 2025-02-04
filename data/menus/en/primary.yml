@@ -121,10 +121,10 @@ items:
   path: "/pages/blog"
   file: content/en/pages/blog/_index.html
 - title: Sufficiency 1st Initiative
-  target: "/blog/sufficiency-where-philosophy-meets-science/sufficiency-first-coalition/"
+  target: "/sufficiency-first-coalition/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/blog/sufficiency-where-philosophy-meets-science/sufficiency-first-coalition"
-  file: content/en/pages/blog/sufficiency-where-philosophy-meets-science/sufficiency-first-coalition/_index.html
+  path: "/pages/sufficiency-first-coalition"
+  file: content/en/pages/sufficiency-first-coalition/_index.html
 

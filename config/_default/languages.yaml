@@ -15,9 +15,9 @@ en:
     pages_categories: /:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
-    persons: /blog/:slug/
-    persons_categories: /blog/categories/:slug/
-    authors: /blog/:slug/news/
+    persons: /team/:slug/
+    persons_categories: /team/categories/:slug/
+    authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
     author: authors

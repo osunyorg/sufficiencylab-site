@@ -120,7 +120,7 @@ items:
   children: []
   path: "/pages/blog"
   file: content/en/pages/blog/_index.html
-- title: Sufficiency 1st Initiative
+- title: Sufficiency 1st
   target: "/sufficiency-first-coalition/"
   kind: page
   new_tab: false

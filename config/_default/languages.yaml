@@ -15,6 +15,8 @@ en:
     exhibitions: /exhibitions/:year-:month-:day-:slug/
     events_categories: /events/:slug/
     pages_categories: /:slug/
+    projects: /projects/:year-:slug/
+    projects_categories: /projects/:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
     persons: /team/:slug/

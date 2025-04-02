@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/lab"
   file: content/en/pages/lab/_index.html
+- title: Sufficiency 1st
+  target: "/sufficiency-first-coalition/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/sufficiency-first-coalition"
+  file: content/en/pages/sufficiency-first-coalition/_index.html
 - title: People
   target: "/people/"
   kind: page
@@ -29,13 +36,6 @@ items:
   children: []
   path: "/pages/academy"
   file: content/en/pages/academy/_index.html
-- title: Sufficiency 1st
-  target: "/sufficiency-first-coalition/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/sufficiency-first-coalition"
-  file: content/en/pages/sufficiency-first-coalition/_index.html
 - title: News
   target: "/news/"
   kind: page

@@ -15,6 +15,13 @@ items:
   children: []
   path: "/pages/people"
   file: content/en/pages/people/_index.html
+- title: Library
+  target: "/library/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/library"
+  file: content/en/pages/library/_index.html
 - title: News
   target: "/news/"
   kind: page
@@ -43,13 +50,6 @@ items:
   children: []
   path: "/pages/sufficiency-first-coalition"
   file: content/en/pages/sufficiency-first-coalition/_index.html
-- title: Library
-  target: "/library/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/library"
-  file: content/en/pages/library/_index.html
 - title: Community
   target: "/community/"
   kind: page

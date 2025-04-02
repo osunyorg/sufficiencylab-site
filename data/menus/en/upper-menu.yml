@@ -8,9 +8,4 @@ items:
   children: []
   path: "/"
   file: content/en/_index.html
-- title: Library
-  target: https://library.thesufficiencylab.org
-  kind: url
-  new_tab: false
-  children: []
 

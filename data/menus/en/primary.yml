@@ -22,13 +22,6 @@ items:
   children: []
   path: "/pages/library"
   file: content/en/pages/library/_index.html
-- title: Community
-  target: "/community/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/community"
-  file: content/en/pages/community/_index.html
 - title: Academy
   target: "/academy/"
   kind: page
@@ -36,6 +29,13 @@ items:
   children: []
   path: "/pages/academy"
   file: content/en/pages/academy/_index.html
+- title: Community
+  target: "/community/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/community"
+  file: content/en/pages/community/_index.html
 - title: News
   target: "/news/"
   kind: page

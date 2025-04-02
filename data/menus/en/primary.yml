@@ -1,34 +1,6 @@
 ---
 title: Menu
 items:
-- title: About us
-  target: "/about-us/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Founders
-    target: "/about-us/the-team/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/the-team"
-    file: content/en/pages/about-us/the-team/_index.html
-  - title: Scientific Committee
-    target: "/about-us/scientific-committee/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/scientific-committee"
-    file: content/en/pages/about-us/scientific-committee/_index.html
-  - title: Hubs Committee
-    target: "/about-us/hubs-committee/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/about-us/hubs-committee"
-    file: content/en/pages/about-us/hubs-committee/_index.html
-  path: "/pages/about-us"
-  file: content/en/pages/about-us/_index.html
 - title: Programmes
   target: "/programmes/"
   kind: page

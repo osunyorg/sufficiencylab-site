@@ -43,13 +43,6 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Events
-  target: "/events/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/events"
-  file: content/en/events/_index.html
 - title: Blog
   target: "/blog/"
   kind: page
@@ -57,6 +50,13 @@ items:
   children: []
   path: "/pages/blog"
   file: content/en/pages/blog/_index.html
+- title: Events
+  target: "/events/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
 - title: Sufficiency 1st
   target: "/sufficiency-first-coalition/"
   kind: page

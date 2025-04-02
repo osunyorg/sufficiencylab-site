@@ -1,41 +1,6 @@
 ---
 title: Menu
 items:
-- title: Programmes
-  target: "/programmes/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Urban Areas and Human Settlements
-    target: "/programmes/urban-areas-and-human-settlements/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/programmes/urban-areas-and-human-settlements"
-    file: content/en/pages/programmes/urban-areas-and-human-settlements/_index.html
-  - title: 'Digitalisation '
-    target: "/programmes/digitalisation/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/programmes/digitalisation"
-    file: content/en/pages/programmes/digitalisation/_index.html
-  - title: Clothing
-    target: "/programmes/clothing/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/programmes/clothing"
-    file: content/en/pages/programmes/clothing/_index.html
-  - title: Mobility
-    target: "/programmes/mobility/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/programmes/mobility"
-    file: content/en/pages/programmes/mobility/_index.html
-  path: "/pages/programmes"
-  file: content/en/pages/programmes/_index.html
 - title: Activities
   target: "/activities/"
   kind: page

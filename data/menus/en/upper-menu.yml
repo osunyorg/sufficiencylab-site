@@ -1,11 +1,4 @@
 ---
 title: Upper menu
-items:
-- title: Lab
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/"
-  file: content/en/_index.html
+items: []
 

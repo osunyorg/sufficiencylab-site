@@ -57,11 +57,4 @@ items:
   children: []
   path: "/pages/community"
   file: content/en/pages/community/_index.html
-- title: Sufficiency 1st
-  target: "/sufficiency-first-coalition/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/sufficiency-first-coalition"
-  file: content/en/pages/sufficiency-first-coalition/_index.html
 

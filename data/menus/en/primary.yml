@@ -1,41 +1,6 @@
 ---
 title: Menu
 items:
-- title: Activities
-  target: "/activities/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Sufficiency community
-    target: "/activities/sufficiency-community/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/activities/sufficiency-community"
-    file: content/en/pages/activities/sufficiency-community/_index.html
-  - title: Sufficiency library
-    target: "/activities/sufficiency-library/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/activities/sufficiency-library"
-    file: content/en/pages/activities/sufficiency-library/_index.html
-  - title: Sufficiency academy
-    target: "/activities/sufficiency-academy/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/activities/sufficiency-academy"
-    file: content/en/pages/activities/sufficiency-academy/_index.html
-  - title: Sufficiency summit
-    target: "/activities/sufficiency-summit/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/activities/sufficiency-summit"
-    file: content/en/pages/activities/sufficiency-summit/_index.html
-  path: "/pages/activities"
-  file: content/en/pages/activities/_index.html
 - title: News
   target: "/news/"
   kind: page

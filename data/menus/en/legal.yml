@@ -15,4 +15,11 @@ items:
   children: []
   path: "/pages/sitemap"
   file: content/en/pages/sitemap/_index.html
+- title: Contact us
+  target: "/community/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/community"
+  file: content/en/pages/community/_index.html
 

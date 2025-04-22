@@ -46,4 +46,8 @@ In order to change the theme you have to modify the Suffiency Theme, merge the c
   git submodule update --remote themes/sufficiency-hugo-theme
 ```
 
-If you want to learn more about this you can read the Git Documentation on [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Then commit the change and in the Pull Request it will automatically detail what files were changed like this:
+
+![Pull Request for theme change example](./readme-theme-change-pr-example.png)
+
+If you want to learn more about how it works you can read the Git Documentation on [Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules).

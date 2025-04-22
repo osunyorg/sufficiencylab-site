@@ -50,13 +50,6 @@ items:
   children: []
   path: "/events"
   file: content/en/events/_index.html
-- title: Community
-  target: "/community/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/community"
-  file: content/en/pages/community/_index.html
 - title: Visuals
   target: "/visuals/"
   kind: page
@@ -64,4 +57,11 @@ items:
   children: []
   path: "/pages/visuals"
   file: content/en/pages/visuals/_index.html
+- title: Community
+  target: "/community/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/community"
+  file: content/en/pages/community/_index.html
 

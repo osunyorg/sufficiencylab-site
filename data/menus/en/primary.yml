@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/coalition"
   file: content/en/pages/coalition/_index.html
-- title: Library
+- title: ASK
   target: "/library/"
   kind: page
   new_tab: false

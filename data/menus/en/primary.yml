@@ -55,7 +55,7 @@ items:
     children: []
     path: "/pages/coalition-1/national-sufficiency-labs"
     file: content/en/pages/coalition-1/national-sufficiency-labs/_index.html
-  - title: Sufficiency Leaders
+  - title: Leaders
     target: "/coalition-1/sufficiency-leaders/"
     kind: page
     new_tab: false

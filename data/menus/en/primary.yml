@@ -30,19 +30,19 @@ items:
   path: "/pages/blog"
   file: content/en/pages/blog/_index.html
 - title: Visualisations
-  target: "/visualisations/visuals/"
+  target: "/visuals/"
   kind: page
   new_tab: false
   children:
   - title: Neutrality Targets
-    target: "/visualisations/visuals/"
+    target: "/visuals/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/visualisations/visuals"
-    file: content/en/pages/visualisations/visuals/_index.html
-  path: "/pages/visualisations/visuals"
-  file: content/en/pages/visualisations/visuals/_index.html
+    path: "/pages/visuals"
+    file: content/en/pages/visuals/_index.html
+  path: "/pages/visuals"
+  file: content/en/pages/visuals/_index.html
 - title: Academy
   target: "/academy/"
   kind: page

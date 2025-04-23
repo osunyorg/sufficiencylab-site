@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/library"
   file: content/en/pages/library/_index.html
-- title: Publications
+- title: Blog
   target: "/blog/"
   kind: page
   new_tab: false

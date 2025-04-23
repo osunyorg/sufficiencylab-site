@@ -64,4 +64,11 @@ items:
   children: []
   path: "/pages/coalition-1/community"
   file: content/en/pages/coalition-1/community/_index.html
+- title: Sufficiency First Coalition
+  target: "/coalition-1/coalition/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/coalition-1/coalition"
+  file: content/en/pages/coalition-1/coalition/_index.html
 

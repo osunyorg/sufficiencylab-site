@@ -8,6 +8,13 @@ items:
   children: []
   path: "/pages/lab"
   file: content/en/pages/lab/_index.html
+- title: Visualisation
+  target: "/visuals/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/visuals"
+  file: content/en/pages/visuals/_index.html
 - title: People
   target: "/people/"
   kind: page
@@ -33,14 +40,7 @@ items:
   target: "/visuals/"
   kind: page
   new_tab: false
-  children:
-  - title: Neutrality Targets
-    target: "/visuals/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/visuals"
-    file: content/en/pages/visuals/_index.html
+  children: []
   path: "/pages/visuals"
   file: content/en/pages/visuals/_index.html
 - title: Academy

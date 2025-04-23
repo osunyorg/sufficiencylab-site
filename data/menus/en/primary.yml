@@ -20,7 +20,7 @@ items:
     children: []
     path: "/pages/coalition-1/coalition"
     file: content/en/pages/coalition-1/coalition/_index.html
-  - title: Coalition Platform
+  - title: Platform
     target: "/coalition-1/community/"
     kind: page
     new_tab: false

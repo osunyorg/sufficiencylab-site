@@ -16,10 +16,10 @@ items:
   path: "/pages/sitemap"
   file: content/en/pages/sitemap/_index.html
 - title: Contact us
-  target: "/sufficiency-first-coalition/community/"
+  target: "/community/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/sufficiency-first-coalition/community"
-  file: content/en/pages/sufficiency-first-coalition/community/_index.html
+  path: "/pages/community"
+  file: content/en/pages/community/_index.html
 

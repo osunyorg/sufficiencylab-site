@@ -19,6 +19,8 @@ en:
     projects_categories: /projects/:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
+    organizations: /organizations/:slug/
+    organizations_categories: /organizations/categories/:slug/
     persons: /team/:slug/
     persons_categories: /team/categories/:slug/
     authors: /team/:slug/news/

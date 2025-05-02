@@ -10,7 +10,14 @@ items:
     target: "/lab/co-founders/"
     kind: page
     new_tab: false
-    children: []
+    children:
+    - title: ZZZ
+      target: "/lab/co-founders/zzz/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/lab/co-founders/zzz"
+      file: content/en/pages/lab/co-founders/zzz/_index.html
     path: "/pages/lab/co-founders"
     file: content/en/pages/lab/co-founders/_index.html
   - title: Scientific Committee

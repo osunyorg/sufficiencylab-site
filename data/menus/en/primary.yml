@@ -57,7 +57,7 @@ items:
     file: content/en/pages/consortium/community/_index.html
   path: "/pages/consortium"
   file: content/en/pages/consortium/_index.html
-- title: ASK
+- title: Chat Sufficiency
   target: "/library/"
   kind: page
   new_tab: false

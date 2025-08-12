@@ -72,12 +72,12 @@ items:
   path: "/pages/blog"
   file: content/en/pages/blog/_index.html
 - title: Academy
-  target: "/academy/"
+  target: "/sufficiency-academy-1/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/academy"
-  file: content/en/pages/academy/_index.html
+  path: "/pages/sufficiency-academy-1"
+  file: content/en/pages/sufficiency-academy-1/_index.html
 - title: News
   target: "/news/"
   kind: page

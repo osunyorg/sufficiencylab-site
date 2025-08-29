@@ -20,13 +20,6 @@ items:
     children: []
     path: "/pages/sufficiency-insights/zero-carbon-for-all"
     file: content/en/pages/sufficiency-insights/zero-carbon-for-all/_index.html
-  - title: European Wellbeing Index
-    target: "/sufficiency-insights/ewbi-1/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/sufficiency-insights/ewbi-1"
-    file: content/en/pages/sufficiency-insights/ewbi-1/_index.html
   path: "/pages/sufficiency-insights"
   file: content/en/pages/sufficiency-insights/_index.html
 - title: Sufficiency Academy

@@ -29,7 +29,7 @@ items:
   children: []
   path: "/pages/sufficiency-academy-1"
   file: content/en/pages/sufficiency-academy-1/_index.html
-- title: Sufficiency-First Consortium
+- title: Sufficiency 1st Consortium
   target: "/consortium/"
   kind: page
   new_tab: false

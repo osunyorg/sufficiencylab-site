@@ -9,6 +9,18 @@ en:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            info@thesufficiencylab.org
+          value: >-
+            mailto:info@thesufficiencylab.org
+      social_networks:
+        linkedin:
+          label: >-
+            world-sufficiency-lab
+          value: >-
+            https://www.linkedin.com/company/world-sufficiency-lab/
 
   taxonomies:
     administrator: administrators

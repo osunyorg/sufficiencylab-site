@@ -2,9 +2,9 @@
 title: Menu
 items:
 - title: Chat Sufficiency
-  target: "/library/"
-  kind: page
-  new_tab: false
+  target: https://chat.thesufficiencylab.org/
+  kind: url
+  new_tab: true
   children: []
   path: "/pages/library"
   file: content/en/pages/library/_index.html

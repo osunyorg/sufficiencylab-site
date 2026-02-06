@@ -43,30 +43,30 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
-- title: Community
+- title: Sufficiency 1st Consortium
   target: ''
   kind: blank
   new_tab: false
   children:
-  - title: Sufficiency 1st Consortium
+  - title: National Sufficiency Labs
     target: "/consortium/"
     kind: page
     new_tab: false
     children: []
     path: "/pages/consortium"
     file: content/en/pages/consortium/_index.html
-  - title: Events
-    target: "/events/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/events"
-    file: content/en/events/_index.html
   - title: Mattermost
     target: https://community.thesufficiencylab.org
     kind: url
     new_tab: true
     children: []
+- title: Events
+  target: "/events/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/events"
+  file: content/en/events/_index.html
 - title: About
   target: "/lab/"
   kind: page

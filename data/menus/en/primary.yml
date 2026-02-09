@@ -2,12 +2,12 @@
 title: Menu
 items:
 - title: Chat Sufficiency
-  target: "/library/"
+  target: "/chat/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/library"
-  file: content/en/pages/library/_index.html
+  path: "/pages/chat"
+  file: content/en/pages/chat/_index.html
 - title: Sufficiency Insights
   target: "/sufficiency-insights/"
   kind: page

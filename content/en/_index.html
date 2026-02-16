@@ -138,6 +138,51 @@ contents:
           target_blank: false
 
 
+  - kind: block
+    template: agenda
+    title: >-
+      Upcoming events
+    slug: >-
+      upcoming-events
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Upcoming events
+        heading: 2
+        link: "/events/"
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: list
+
+
+      title_link: "/events/"
+      events:
+        - permalink: "/events/2026/swiss-sufficiency-lab-1/"
+          path: "/events/2026/02/26-11-30-swiss-sufficiency-lab-1"
+          slug: "swiss-sufficiency-lab-1"
+          file: "content/en/events/2026/02/26-11-30-swiss-sufficiency-lab-1.html"
+          name: >-
+            Swiss Sufficiency Lab
+
+      quantity: 1
 
   - kind: block
     template: pages

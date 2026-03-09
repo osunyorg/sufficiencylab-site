@@ -1,7 +1,9 @@
 ---
 name: tanja.jpg
 size: 28014
-ratio: 1
+width: 521
+height: 521
+ratio: 1.0
 format: square
 url: https://sufficiencylab.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjAxZTNiMjg5LTU5MTgtNGI1NC1iYzQyLTYzMTIxZDBkZDgwNyIsInB1ciI6ImJsb2JfaWQifX0=--0f3c643f8d9df888906e08be61019be59ed1127f/tanja.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/hq9w3hqksk8s0zqf90l4250tkkms

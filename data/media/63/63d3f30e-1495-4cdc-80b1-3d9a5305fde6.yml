@@ -1,7 +1,9 @@
 ---
 name: Marte.jpg
 size: 10492
-ratio: 1
+width: 241
+height: 241
+ratio: 1.0
 format: square
 url: https://sufficiencylab.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjYzZDNmMzBlLTE0OTUtNGNkYy04MGIxLTNkOWE1MzA1ZmRlNiIsInB1ciI6ImJsb2JfaWQifX0=--f856ece5bb2831e77a8174dd8239bb44be40421f/Marte.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/bhokg0qpsaf36w9b7w3xqfyejtby

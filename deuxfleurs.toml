@@ -355,6 +355,10 @@ from = "/en/about-us/team/claire-roumet/index.html"
 to = "/team/claire-roumet/"
 
 [[redirects]]
+from = "/enough-learning-to-recognise-it-through-chinese-philosophy/index.html"
+to = "/blog/enough-learning-to-recognise-it-through-chinese-philosophy/"
+
+[[redirects]]
 from = "/sadaf-saeed/index.html"
 to = "/team/sadaf-saeed/"
 

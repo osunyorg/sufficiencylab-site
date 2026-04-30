@@ -143,6 +143,10 @@ from = "/en/team/david-ness/index.html"
 to = "/team/david-ness/"
 
 [[redirects]]
+from = "/art-beyond-ownership-practicing-sufficiency/index.html"
+to = "/blog/art-beyond-ownership-practicing-sufficiency/"
+
+[[redirects]]
 from = "/en/team/yamina-saheb/index.html"
 to = "/team/yamina-saheb/"
 

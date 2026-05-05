@@ -78,7 +78,7 @@ next_months:
       - day: 2026-05-07
         cwday: 4
         current: false
-        events: 0
+        events: 1
       - day: 2026-05-08
         cwday: 5
         current: false
@@ -510,6 +510,43 @@ contents_reading_time:
   text: >-
     less than a minute
 contents:
+  - kind: block
+    template: agenda
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: grid
+
+
+      title_link: ""
+      events:
+        - permalink: "/events/2026/sufficiency-sustainable-living/"
+          path: "/events/2026/05/07-sufficiency-sustainable-living"
+          slug: "sufficiency-sustainable-living"
+          file: "content/en/events/2026/05/07-sufficiency-sustainable-living.html"
+          name: >-
+            Sufficiency & Sustainable Living
+
+      quantity: 1
 
 
 ---

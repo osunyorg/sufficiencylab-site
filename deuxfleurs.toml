@@ -315,6 +315,10 @@ from = "/events/mode/online/index.html"
 to = "/events/location/online/"
 
 [[redirects]]
+from = "/from-scarcity-to-sufficiency-rethinking-urban-development-in-monterrey/index.html"
+to = "/blog/from-scarcity-to-sufficiency-rethinking-urban-development-in-monterrey/"
+
+[[redirects]]
 from = "/en/team/mengyu-li/index.html"
 to = "/team/mengyu-li/"
 

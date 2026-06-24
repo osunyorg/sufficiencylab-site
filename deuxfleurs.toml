@@ -511,6 +511,10 @@ from = "/en/events/2024-04-25-modelling-workshop/index.html"
 to = "/events/2023/modelling-workshop/"
 
 [[redirects]]
+from = "/consumption-carbon/index.html"
+to = "/blog/consumption-carbon/"
+
+[[redirects]]
 from = "/lise-korsten/index.html"
 to = "/team/lise-korsten/"
 

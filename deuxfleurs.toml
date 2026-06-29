@@ -379,6 +379,10 @@ from = "/en/about-us/team/editors/index.html"
 to = "/team/editorial-team/"
 
 [[redirects]]
+from = "/sufficiency-oriented-businesses-a-new-paradigm-that-needs-support/index.html"
+to = "/blog/sufficiency-oriented-businesses-a-new-paradigm-that-needs-support/"
+
+[[redirects]]
 from = "/blog/dear-italian-governor-let-me-invite-you-over-for-dinner/index.html"
 to = "/blog/an-italian-banquet-a-lesson-in-limits/"
 

@@ -615,6 +615,10 @@ from = "/en/team/jarmo-kikstra/index.html"
 to = "/team/jarmo-kikstra/"
 
 [[redirects]]
+from = "/beyond-industry-sufficiency-structural-transformation-and-value-creation-in-germany/index.html"
+to = "/blog/beyond-industry-sufficiency-structural-transformation-and-value-creation-in-germany/"
+
+[[redirects]]
 from = "/kai-kuhnhenn/index.html"
 to = "/team/kai-kuhnhenn/"
 

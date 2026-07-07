@@ -467,6 +467,10 @@ from = "/en/team/nathalie-spittler/index.html"
 to = "/team/nathalie-spittler/"
 
 [[redirects]]
+from = "/the-path-to-sovereignty-and-macroeconomic-stability-lies-in-sufficiency-a-letter-to-roland-lescure-t/index.html"
+to = "/blog/the-path-to-sovereignty-and-macroeconomic-stability-lies-in-sufficiency-a-letter-to-roland-lescure-t/"
+
+[[redirects]]
 from = "/en/events/index.html"
 to = "/events/"
 

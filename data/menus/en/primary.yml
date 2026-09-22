@@ -29,6 +29,15 @@ items:
   - "/sufficiency-insights/zero-carbon-for-all/"
   path: "/pages/sufficiency-insights"
   file: content/en/pages/sufficiency-insights/_index.html
+- title: Sufficiency gap reports
+  slug: sufficiency-gap-reports
+  target: "/sufficiency-gap-reports/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/sufficiency-gap-reports"
+  file: content/en/pages/sufficiency-gap-reports/_index.html
 - title: Sufficiency Academy
   slug: sufficiency-academy
   target: "/sufficiency-academy-1/"

@@ -163,6 +163,10 @@ from = "/en/team/editors/index.html"
 to = "/team/editorial-team/"
 
 [[redirects]]
+from = "/phd-position-3-year-doctoral-contract-on-sufficiency-driven-business-models-for-health-systems/index.html"
+to = "/news/phd-position-3-year-doctoral-contract-on-sufficiency-driven-business-models-for-health-systems/"
+
+[[redirects]]
 from = "/nathalie-spittler/index.html"
 to = "/team/nathalie-spittler/"
 

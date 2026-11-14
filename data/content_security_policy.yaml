@@ -16,4 +16,5 @@ allowed_domains:
   - "player.vimeo.com"
   - "vumbnail.com"
   - "chat.thesufficiencylab.org"
+  - "app-93970e70-bdec-4123-9120-a36dbf4c63a6.cleverapps.io"
   - "app-d066b92e-20ba-4dbf-af25-73c7e5657091.cleverapps.io"

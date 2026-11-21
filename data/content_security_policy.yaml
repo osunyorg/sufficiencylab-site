@@ -17,4 +17,5 @@ allowed_domains:
   - "vumbnail.com"
   - "chat.thesufficiencylab.org"
   - "app-d066b92e-20ba-4dbf-af25-73c7e5657091.cleverapps.io"
-  - "app-565fe7ba-9a9f-49e0-a852-fdeb7b8d204c.cleverapps.io"
+  - "zerocarbon.apps.thesufficiencylab.org"
+  - "atlas.apps.thesufficiencylab.org"

@@ -59,10 +59,6 @@ from = "/lab/team/categories/co-founders/index.html"
 to = "/team/categories/co-founders/"
 
 [[redirects]]
-from = "/sufficiency-insights/visuals-1/index.html"
-to = "/sufficiency-insights/ewbi-1/"
-
-[[redirects]]
 from = "/en/team/minal-pathak/index.html"
 to = "/team/minal-pathak/"
 

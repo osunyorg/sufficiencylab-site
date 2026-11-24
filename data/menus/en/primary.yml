@@ -127,11 +127,35 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/en/pages/contact/_index.html
-- title: Sign Out
-  slug: sign-out
-  target: https://apps.thesufficiencylab.org/compte-wsl/deconnexion
-  kind: url
+- title: Account
+  slug: account
+  target: ''
+  kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Sign in
+    slug: sign-in
+    target: https://apps.thesufficiencylab.org/compte-wsl/connexion?cadre=atlas
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Create an account
+    slug: create-an-account
+    target: https://apps.thesufficiencylab.org/compte-wsl/connexion?cadre=atlas&inscription=1
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Sign out
+    slug: sign-out
+    target: https://apps.thesufficiencylab.org/compte-wsl/deconnexion
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - https://apps.thesufficiencylab.org/compte-wsl/connexion?cadre=atlas
+  - https://apps.thesufficiencylab.org/compte-wsl/connexion?cadre=atlas&inscription=1
+  - https://apps.thesufficiencylab.org/compte-wsl/deconnexion
 
